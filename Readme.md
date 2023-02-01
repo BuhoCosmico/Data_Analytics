@@ -1,4 +1,4 @@
-<h1 align=center> **PROYECTO** </h1>
+<h1 align=center> PROYECTO </h1>
 
 # <h1 align=center>**`Data Analytics`**</h1>
 
