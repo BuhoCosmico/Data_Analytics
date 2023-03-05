@@ -8,12 +8,12 @@
 
 ## Rol a desarrollar:
 
-+ Se nos encargo elaborar un proyecto en donde debemos de extraer la informacion mas relevante de los principales MOOCs, diseñar el/los Kpi/kpi's, modelarlo con sus respectivas metricas y armar un Wordcloud con las palabras clave de cada  Dataset.
-Para esto se nos otorgo un conjunto de datos con informacion pertinente a la mismas (Coursera, edx y udemy). Con los mismos se realizo un EDA (Analisis exploratorio de datos) para extraer la informacion mas relevante, del mismo se pudieron sacar varias conclusiones. 
-Las conclusiones poseen un estrecho vinculo con el Kpi que se propuso y a su vez con el contexto en el cual se encuentra la organizacion. Se necesita ser precisos con dichas conclusiones, ya que de las mismas va a depender si hay o no una insercion en el mercado de las MOOCs.
++ Se nos encargo elaborar un proyecto en donde debemos de extraer la informacion mas relevante de los principales MOOCs, diseñar los KPIs (en base a un contexto en donde el negocio esta en funcionamiento), modelarlo con sus respectivas metricas y armar un Wordcloud con las palabras clave de cada  Dataset.
+Para esto se nos otorgo un conjunto de datos con informacion pertinente a la mismas (Coursera, edx y udemy). Con los mismos se realizo un EDA (Analisis exploratorio de datos) para extraer la informacion mas relevante y en complementacion con el mismo una investigacion, una vez realizados estos procedimientos, se pudieron sacar varias conclusiones. 
+Las conclusiones poseen un estrecho vinculo con los KPIs que se propusieron y a su vez con el contexto en el cual se encuentra la organizacion. Se necesita ser precisos con dichas conclusiones, ya que de las mismas va a depender si hay o no una insercion en el mercado de las MOOCs y si son viables las estrategias que se propongan.
 
 - Mi trabajo es brindar la informacion que extraiga de la manera mas clara, argumentando las interpretaciones que logre extraer de los ya mencionados Datasets.
-- Para la elaboracion del EDA utilice como lenguaje Python y del mismo se utilizaron las librerias: Pandas, Matplotlib, numpy y Wordcloud
+- Para la elaboracion del EDA utilice como lenguaje Python y del mismo se utilizaron las librerias: Pandas, Matplotlib, numpy y Wordcloud.
 
 ## Vision, objetivo y propuesta
 
@@ -30,10 +30,9 @@ Como principales objetivos (recomendacion personal) se debe de priorizar el mate
 
 + Ahora que se tiene un panorama mas claro del trabajo que se busca realizar y a su vez se puede apreciar las tendencias que poseo en relacion, brindare el Kpi que desarrolle, en el mismo busque avocarme al material que se comercializa (buscando patrones en el mismo), analizar sectorialmente el mercado y evaluar los medios de monetizacion de la posible competencia. Dada la amplia variedad de temas decidi analizar los datasets por separado y brindar un analisis personalizado de los mismos. 
 
-## KPI
+## Analisis base
 
 + Reconocer los patrones generales que se utilizan para la creacion y distribucion de contenido.
-    Se evaluaran primordialmente las siguientes metricas: 
     - Que institucion/nes crea e imparte los cursos en dichas plataformas
     - Palabras que mas se utilizan
     - Duracion de dichos cursos
@@ -41,6 +40,9 @@ Como principales objetivos (recomendacion personal) se debe de priorizar el mate
     - Principales sectores del mercado en donde se desarrollan 
     - Top de cursos
 
-## Extra
+## KPI
 
-+ Se contemplaran los datos mas relevante que se logren extraer de los datasets y se presentara esta informacion si se llega a la conclusion de que es en pro del objetivo propuesto (el KPI). Dado que cada Dataset presenta datos muy diversos acerca de la estructura del negocio, se buscara dar una personalizacion a la hora de exponer individualmente el Dashboard pertienente a cada Dataset.
++ Una vez completado el analisis e investigacion, se propusieron los siguientes KPIs:
+    - Aumentar/retener un 10% a los nuevos usuarios en un plazo de 5 meses 
+    - Aumentar las palabras (favorables) que mas se utilizan en los comentarios de los cursos (feedback) en un 20% en un plazo de 5 meses
+    - Aumentar en un 15% el nivel de conocimiento avanzado en un plazo de 1 año
